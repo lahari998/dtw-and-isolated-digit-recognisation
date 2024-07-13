@@ -1,0 +1,1 @@
+This project focuses on developing an isolated digit recognition system using Mel Frequency Cepstral Coefficients (MFCC) and Dynamic Time Warping (DTW). The system involves recording digit sounds, extracting MFCC features, and employing DTW for pattern matching. The recognition accuracy is evaluated, and a confusion matrix is created to identify the most confusing digits.
